@@ -18,3 +18,4 @@ $ npm install
 $ node app.js
 ```
 
+![Preview](preview.jpg)
